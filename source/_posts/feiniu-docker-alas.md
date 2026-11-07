@@ -2,7 +2,7 @@
 title: 飞牛dcoker搭建ALAS
 categories:
   - docker
-tags:
+tags: [tutorial]
   - tutorial
 abbrlink: 6635
 date: 2026-10-04 15:36:56

@@ -2,7 +2,7 @@
 title: 甲骨文放行端口
 categories:
   - VPS
-tags:
+tags: [tutorial]
   - tutorial
 abbrlink: 34168
 date: 2025-09-24 12:22:35

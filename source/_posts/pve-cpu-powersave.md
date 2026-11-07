@@ -2,7 +2,7 @@
 title: "PVE修改CPU调度为powersave\_模式"
 categories:
   - pve
-tags:
+tags: [PEV, tutorial, mode]
   - PEV
   - tutorial
   - mode

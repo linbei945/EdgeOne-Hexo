@@ -2,7 +2,7 @@
 title: 飞牛docker搭建redroid
 categories:
   - docker
-tags:
+tags: [tutorial]
   - tutorial
 abbrlink: 21281
 date: 2026-10-04 01:44:45
