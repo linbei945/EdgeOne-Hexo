@@ -1,0 +1,134 @@
+[
+  {
+    "id": 4,
+    "count": 1,
+    "description": "",
+    "link": "https://wp.lb945.cc.cd/tag/pev/",
+    "name": "PEV",
+    "slug": "pev",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/tags/4",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/posts?tags=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "count": 4,
+    "description": "",
+    "link": "https://wp.lb945.cc.cd/tag/%e6%95%99%e7%a8%8b/",
+    "name": "教程",
+    "slug": "%e6%95%99%e7%a8%8b",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/tags/5",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/posts?tags=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 1,
+    "description": "",
+    "link": "https://wp.lb945.cc.cd/tag/%e6%a8%a1%e5%bc%8f/",
+    "name": "模式",
+    "slug": "%e6%a8%a1%e5%bc%8f",
+    "taxonomy": "post_tag",
+    "meta": [],
+    "_links": {
+      "self": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/tags/6",
+          "targetHints": {
+            "allow": [
+              "GET"
+            ]
+          }
+        }
+      ],
+      "collection": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/tags"
+        }
+      ],
+      "about": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/taxonomies/post_tag"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "https://wp.lb945.cc.cd/wp-json/wp/v2/posts?tags=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

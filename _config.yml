@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: My WordPress Hexo Site | EdgeOne Makers
-subtitle: ''
+title: 家乐福海盗
+subtitle: 技术记录与折腾日志
 description: "Demo only · EdgeOne Makers"
 keywords: "EdgeOne Makers, Demo only"
 author: Edgeone Pages
@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
-permalink: :year/:month/:day/:title/
+url: https://hexo.lb945.cc.cd
+permalink: posts/:abbrlink/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
